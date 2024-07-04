@@ -38,7 +38,7 @@ Things I Learnt:
 
 ✅ Next.js API Routes
 
-Completed tutorial by [[Javascript Mastery](https://www.youtube.com/watch?v=wm5gMKuwSYk)
+Completed tutorial by [Javascript Mastery](https://www.youtube.com/watch?v=wm5gMKuwSYk)
 
 
 
